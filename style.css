@@ -1,0 +1,12 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body{
+    background: rgb(255, 255, 255);
+    margin-top: 150px;
+}
+h1,p{
+    text-align: center;
+}
+p{
+    font-size: 30px;
+}
